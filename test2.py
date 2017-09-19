@@ -2,3 +2,5 @@
 # lets do some more stuff
 # and more
 # even more
+print 'test'
+print "2. test"
